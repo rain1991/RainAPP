@@ -1,4 +1,4 @@
-# 使用Framework7-Vue重构的Framework7官网 Demo
+# 使用Framework7-Vue 做一个小案例（里面包含许多官网原生的实例）
 
 Framwork7-Vue 将 Framework7 和 Vue 结合起来
 
